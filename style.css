@@ -1,0 +1,10 @@
+.blog{
+    border: 10px solid tomato;
+    border-radius: 20px;
+    padding: 5px;
+}
+h4{
+    font-weight: bolder;
+    font-style: italic;
+    background-color: blueviolet;
+}
