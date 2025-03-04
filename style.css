@@ -8,3 +8,16 @@ h4{
     font-style: italic;
     background-color: blueviolet;
 }
+h3{
+    text-align: center;
+    padding:50px;
+    text-decoration:darkblue;
+}
+.back_img{
+    margin:10px;
+    background-image: url(medical.png);
+    /* background-size: 500px; */
+    background-position: center; 
+    background-repeat: no-repeat;
+   
+}
